@@ -1,0 +1,6 @@
+flask
+groq
+edge-tts
+gunicorn
+openai
+numpy
